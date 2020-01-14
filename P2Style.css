@@ -1,0 +1,33 @@
+#first-header{
+    padding-top: 100px;
+    color: brown;
+    font-size: 300%;
+    font-style: oblique;
+    font-stretch: extra-expanded;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+   
+}
+#second-header{
+    padding-top: 100px;
+    color: brown;
+    font-size: 300%;
+    font-style: italic;
+    font-stretch: ultra-expanded;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#third-header{
+    padding-top: 100px;
+    color: brown;
+    font-size: 300%;
+    font-style: italic;
+    font-stretch: extra-expanded;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#body {
+    background-image: url('Youtube\ gif\ dancing.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
